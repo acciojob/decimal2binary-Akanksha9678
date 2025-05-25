@@ -1,4 +1,4 @@
-function decimalToBinary(num) {
+function decimalToBinary(n) {
   //Write you code here
     let binary = "";
   if (n === 0) {
